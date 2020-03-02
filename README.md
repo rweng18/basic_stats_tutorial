@@ -1,2 +1,2 @@
-# basic_stats_tutorial
-Creating an interactive frontend and descriptive tutorial to explain basic statistical concepts
+# Basic Statistics Tutorial and Frontend (Work In Progress)
+GOAL: To create an interactive frontend and descriptive tutorial to explain basic statistical concepts.
