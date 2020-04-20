@@ -1,2 +1,4 @@
 # Basic Statistics Tutorial and Frontend (Work In Progress)
-GOAL: To create an interactive frontend and descriptive tutorial to explain basic statistical concepts.
+## Goals
+* Create an interactive and educational interface for nontechnical audiences to learn about basic statistical concepts
+* Create a tutorial for implementing a data product on Dash
